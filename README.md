@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chummang Rai</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **Flutter and Docker**
+- 🌱 I’m currently learning **React Native and Vue.js**
 
 - 👨‍💻 All of my projects are available at [raichummang.vercel.app](raichummang.vercel.app)
 
